@@ -1,3 +1,7 @@
+##Bem-vindo ao perfil de Vinicius Nunes :)
+
+
+
 <div>
   <a href="https://github.com/Netqtuz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Netqtuz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
